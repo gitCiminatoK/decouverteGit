@@ -1,4 +1,5 @@
 <?php
+//Commentaire pour git
 require_once("modele/modele.inc.php");
 include("vues/v_entete.php") ;
 session_start();
